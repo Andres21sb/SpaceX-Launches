@@ -13,10 +13,10 @@ En vscode hay que tener la extension
 
 | [Estructura](markdown/Estructura.md)       |     |
 | ------------------------------------------ | --- |
-| [Scope de estilos](markdown/Scope%20de%20estilos.md) |     |
-| [Layouts](markdown/Layouts.md)             |     |
-| [Components](markdown/Components.md)       |     |
-| [Comandos](markdown/Comandos.md)           |     |
-| [Deployment](markdown/Deployment.md)       |     |
-| [Librerias](markdown/librerias.md)         |     |
+| [Scope de estilos](Scope%20de%20estilos.md) |     |
+| [Layouts](Layouts.md)             |     |
+| [Components](Components.md)       |     |
+| [Comandos](Comandos.md)           |     |
+| [Deployment](Deployment.md)       |     |
+| [Librerias](librerias.md)         |     |
 |                                            |     |
