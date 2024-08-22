@@ -19,4 +19,4 @@ A partir de v4
 
 En vscode hay que tener la extension
 
-[[markdown/Astro.md]]
+[Más información sobre Astro](markdown/Astro.md)
