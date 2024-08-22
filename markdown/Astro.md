@@ -11,12 +11,12 @@ A partir de v4
 
 En vscode hay que tener la extension
 
-| [[Astro/Estructura]]       |     |
-| -------------------------- | --- |
-| [[Astro/Scope de estilos]] |     |
-| [[Astro/Layouts]]          |     |
-| [[Astro/Components]]       |     |
-| [[Astro/Comandos]]         |     |
-| [[Astro/Deployment]]       |     |
-| [[Astro/librerias]]        |     |
-|                            |     |
+| [Estructura](markdown/Estructura.md)       |     |
+| ------------------------------------------ | --- |
+| [Scope de estilos](markdown/Scope%20de%20estilos.md) |     |
+| [Layouts](markdown/Layouts.md)             |     |
+| [Components](markdown/Components.md)       |     |
+| [Comandos](markdown/Comandos.md)           |     |
+| [Deployment](markdown/Deployment.md)       |     |
+| [Librerias](markdown/librerias.md)         |     |
+|                                            |     |
